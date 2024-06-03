@@ -1,4 +1,4 @@
-const baseUrl = `http://localhost:8080/api`;
+const baseUrl = `https://travelsite-depl-version-vercel.vercel.app/api`;
 
 export const registerUrl = `${baseUrl}/auth/register`;
 export const loginUrl = `${baseUrl}/auth/login`;
