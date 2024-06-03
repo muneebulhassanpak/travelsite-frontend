@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.birth {
+  font-family: "Birthstone Bounce", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.inter {
+  font-family: "Inter", sans-serif;
+}
+
+.light-blue {
+  color: #0079c1;
+}
+
+.moderate-blue {
+  color: #00457c;
+}
+
+.extreme-blue {
+  color: #012169;
+}
+
+.light-blue-bg {
+  background-color: #0079c1;
+}
+
+.moderate-blue-bg {
+  background-color: #00457c;
+}
+
+.extreme-blue-bg {
+  background-color: #012169;
+}
